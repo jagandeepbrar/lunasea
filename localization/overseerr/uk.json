@@ -1,1 +1,25 @@
-{}
+{
+    "overseerr.Audio": "Аудіо",
+    "overseerr.Available": "Доступно",
+    "overseerr.Declined": "Відхилено",
+    "overseerr.Issues": "Проблеми",
+    "overseerr.NoIssues": "Немає проблем",
+    "overseerr.NoIssuesFound": "Проблем не виявлено",
+    "overseerr.NoRequests": "Немає запитів",
+    "overseerr.NoRequestsFound": "Запитів не знайдено",
+    "overseerr.OneRequest": "1 Запит",
+    "overseerr.Open": "Відкрити",
+    "overseerr.Other": "Інший",
+    "overseerr.PartiallyAvailable": "Частково доступно",
+    "overseerr.Processing": "Обробка",
+    "overseerr.SomeRequests": "{} Запитів",
+    "overseerr.Resolved": "Вирішено",
+    "overseerr.Requested": "Запросив",
+    "overseerr.RequestedBy": "Запрошено {}",
+    "overseerr.Requests": "Запити",
+    "overseerr.Subtitle": "Субтитри",
+    "overseerr.Video": "Відео",
+    "overseerr.NoUsersFound": "Користувачів не знайдено",
+    "overseerr.UnknownUser": "Невідомий користувач",
+    "overseerr.Users": "Користувачі"
+}
