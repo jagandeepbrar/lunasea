@@ -23,7 +23,7 @@
     "tautulli.Metadata": "Метадані",
     "tautulli.More": "Більше",
     "tautulli.MediaDetails": "Інформація про Медіа",
-    "tautulli.NoActiveStreams": "Не має Активих Трансляцій",
+    "tautulli.NoActiveStreams": "Не має Активних Трансляцій",
     "tautulli.Platform": "Платформа",
     "tautulli.Quality": "Якість",
     "tautulli.Season": "Сезон {}",
@@ -61,5 +61,7 @@
     "tautulli.Statistics": "Статистика",
     "tautulli.StatisticsItemCount": "Кількість елементів статистики",
     "tautulli.Subtitle": "Субтитри",
-    "tautulli.Users": "Користувачі"
+    "tautulli.Users": "Користувачі",
+    "tautulli.SessionsMany": "{} сеансів",
+    "tautulli.ViewWebGUI": "Перегляд веб-інтерфейсу користувача"
 }
