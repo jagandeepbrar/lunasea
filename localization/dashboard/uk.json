@@ -4,15 +4,18 @@
     "dashboard.Modules": "Модулі",
     "dashboard.Monday": "Понеділок",
     "dashboard.NoNewContent": "Немає нового вмісту",
-    "dashboard.OneMonth": "Один місяць",
-    "dashboard.OneWeek": "Один тиждень",
+    "dashboard.OneMonth": "Один Місяць",
+    "dashboard.OneWeek": "Один Тиждень",
     "dashboard.Saturday": "Субота",
     "dashboard.Schedule": "Розклад",
     "dashboard.Sunday": "Неділя",
     "dashboard.Thursday": "Четвер",
     "dashboard.Tuesday": "Вівторок",
-    "dashboard.TwoWeeks": "Два тижні",
+    "dashboard.TwoWeeks": "Два Тижні",
     "dashboard.Wednesday": "Середа",
     "dashboard.Friday": "П'ятниця",
-    "dashboard.MinimumOfOneDay": "Мінімум 1 день"
+    "dashboard.MinimumOfOneDay": "Мінімум 1 день",
+    "dashboard.FutureDaysDescription": "Встановіть кількість днів у майбутньому для отримання записів календаря.",
+    "dashboard.PastDays": "Минулі Дні",
+    "dashboard.PastDaysDescription": "Встановіть кількість днів у минулому, для яких потрібно отримати записи календаря."
 }
