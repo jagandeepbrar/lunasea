@@ -129,7 +129,7 @@
     "settings.FailedToDeleteAccount": "Не вдалося видалити обліковий запис",
     "settings.FailedToUpdateEmail": "Не вдалося оновити електронну адресу",
     "settings.FailedToUpdatePassword": "Не вдалося оновити пароль",
-    "settings.FilterCategory": "Категорія фільтра",
+    "settings.FilterCategory": "Фільтрування за категоріями",
     "settings.ForgotYourPassword": "Забули свій пароль?",
     "settings.FutureDays": "Майбутні дні",
     "settings.GeneralDescription": "Налаштуйте LunaSea",
@@ -266,5 +266,10 @@
     "settings.UpdateEmail": "Оновити електронну адресу",
     "settings.UpdatePassword": "Оновити пароль",
     "settings.Username": "Ім'я користувача",
-    "settings.UsernameValidation": "Необхідно ім'я користувача"
+    "settings.UsernameValidation": "Необхідно ім'я користувача",
+    "settings.DefaultSortingAndFiltering": "Сортування та фільтрування за умовчанням",
+    "settings.DefaultOptionsDescription": "Установіть параметри сортування , фільтрації та перегляду",
+    "settings.DefaultSortingAndFilteringDescription": "Встановіть стандартні методи сортування та фільтрації",
+    "settings.SortDirection": "Напрямок сортування",
+    "settings.SortCategory": "Категорія Сортування"
 }
