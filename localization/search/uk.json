@@ -30,5 +30,7 @@
     "search.DownloadingNZBToDevice": "Завантаження NZB на ваш пристрій",
     "search.DownloadToDevice": "Завантажити на пристрій",
     "search.EditIndexer": "Редагувати індексатор",
-    "search.IndexerAPIKey": "Ключ API індексатора"
+    "search.IndexerAPIKey": "Ключ API індексатора",
+    "search.Alphabetical": "За алфавітом",
+    "search.ShowLinksDescription": "Показати посилання на завантаження та коментарі"
 }
