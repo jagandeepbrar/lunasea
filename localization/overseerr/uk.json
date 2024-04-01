@@ -21,5 +21,8 @@
     "overseerr.Video": "Відео",
     "overseerr.NoUsersFound": "Користувачів не знайдено",
     "overseerr.UnknownUser": "Невідомий користувач",
-    "overseerr.Users": "Користувачі"
+    "overseerr.Users": "Користувачі",
+    "overseerr.Approved": "Схвалений",
+    "overseerr.OpenedBy": "Відкрито {}",
+    "overseerr.Pending": "В очікуванні"
 }
