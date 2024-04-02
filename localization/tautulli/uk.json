@@ -32,7 +32,7 @@
     "tautulli.Speed": "Швидкість: {}x",
     "tautulli.Stream": "Трансляція",
     "tautulli.Title": "Назва",
-    "tautulli.Transcode": "Транскодування",
+    "tautulli.Transcode": "Перекодування",
     "tautulli.User": "Користувач",
     "tautulli.UserDetails": "Відомості про користувача",
     "tautulli.Video": "Відео",
@@ -63,5 +63,6 @@
     "tautulli.Subtitle": "Субтитри",
     "tautulli.Users": "Користувачі",
     "tautulli.SessionsMany": "{} сеансів",
-    "tautulli.ViewWebGUI": "Перегляд веб-інтерфейсу користувача"
+    "tautulli.ViewWebGUI": "Перегляд веб-інтерфейсу користувача",
+    "tautulli.Transcodes": "Перекодувань"
 }
