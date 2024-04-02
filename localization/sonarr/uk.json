@@ -31,7 +31,7 @@
     "sonarr.EmptyQueue": "Порожня Черга",
     "sonarr.Ended": "Завершено",
     "sonarr.Episode": "Серія",
-    "sonarr.Episodes": "Серій",
+    "sonarr.Episodes": "Серії",
     "sonarr.EpisodesAvailable": "Доступно Серій",
     "sonarr.FailedToAddSeries": "Не вдалося додати серіал",
     "sonarr.FailedToAddTag": "Не вдалося додати тег",
@@ -157,5 +157,10 @@
     "sonarr.Paused": "Призупинено",
     "sonarr.Pending": "В очікуванні",
     "sonarr.Resolution": "Роздільна Здатність",
-    "sonarr.TagsDescription": "Управління тегами"
+    "sonarr.TagsDescription": "Управління тегами",
+    "sonarr.BitDepth": "Глибина Кольору",
+    "sonarr.RemoveFromQueue": "Видалити з черги",
+    "sonarr.RemovedFromQueue": "Вилучено з черги",
+    "sonarr.Streams": "Потоки",
+    "sonarr.Upcoming": "Майбутні"
 }
