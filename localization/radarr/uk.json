@@ -49,7 +49,7 @@
     "radarr.ManualImport": "Ручний імпорт",
     "radarr.ManualImportDescription": "Імпортувати фільми з файлової системи",
     "radarr.MinimumAvailability": "Мінімальна Доступність",
-    "radarr.Missing": "Не знайдено",
+    "radarr.Missing": "Відсутні",
     "radarr.Monitor": "Відстежувати",
     "radarr.MonitorMovie": "Відстеження фільму",
     "radarr.Monitored": "Відстежується",
