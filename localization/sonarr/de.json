@@ -184,7 +184,7 @@
     "sonarr.DownloadedImporting": "Heruntergeladen: Importieren",
     "sonarr.DownloadedWaitingToImport": "Heruntergeladen: Warten auf Import",
     "sonarr.DownloadedWaitingToProcess": "Heruntergeladen: Warten auf Verarbeitung",
-    "sonarr.Downloading": "Herunterladen",
+    "sonarr.Downloading": "Wird heruntergeladen",
     "sonarr.DownloadingWithMessage": "Herunterladen: {}",
     "sonarr.DownloadClientUnavailable": "Download-Klient ist unerreichbar",
     "sonarr.DownloadWarning": "Download-Warnung",
