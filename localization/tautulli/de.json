@@ -70,11 +70,11 @@
     "tautulli.Converting": "Konvertieren",
     "tautulli.Speed": "Geschwindigkeit: {}x",
     "tautulli.ActivityRefreshRate": "Aktivität Aktualisierungsrate",
-    "tautulli.DefaultTerminationMessage": "Standard Abbruch Meldung",
+    "tautulli.DefaultTerminationMessage": "Standard Abbruch-Meldung",
     "tautulli.Graphs": "Abbildungen",
     "tautulli.LibraryDetails": "Bibliothek Details",
     "tautulli.MediaDetails": "Medien Details",
     "tautulli.Statistics": "Statistik",
-    "tautulli.StatisticsItemCount": "Anzahl Statistischer Elemente",
+    "tautulli.StatisticsItemCount": "Anzahl Statistik-Elemente",
     "tautulli.UserDetails": "Benutzer Details"
 }
