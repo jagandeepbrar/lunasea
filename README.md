@@ -10,6 +10,7 @@ LunaSea is a fully featured, open source self-hosted controller focused on givin
 - [Newznab Indexer Searching](https://newznab.readthedocs.io/en/latest/misc/api/)
 - [NZBHydra2](https://github.com/theotherp/nzbhydra2)
 - [Tautulli](https://github.com/Tautulli/Tautulli)
+- [Overseerr](https://github.com/sct/overseerr)
 - [Wake on LAN](https://en.wikipedia.org/wiki/Wake-on-LAN)
 
 LunaSea even comes with support for webhook-based push notifications, multiple instances of applications using profiles, backup and restore functionality for your configuration, an AMOLED black theme, and more!
