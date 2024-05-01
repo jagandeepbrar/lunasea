@@ -162,5 +162,18 @@
     "sonarr.RemoveFromQueue": "Видалити з черги",
     "sonarr.RemovedFromQueue": "Вилучено з черги",
     "sonarr.Streams": "Потоки",
-    "sonarr.Upcoming": "Майбутні"
+    "sonarr.Upcoming": "Майбутні",
+    "sonarr.NoHistoryFound": "Історія не знайдена",
+    "sonarr.NoMessagesFound": "Повідомлень не знайдено",
+    "sonarr.NoResultsFound": "Нічого не знайдено",
+    "sonarr.NoSeasonsFound": "Сезонів не знайдено",
+    "sonarr.NoSeriesFound": "Серій не знайдено",
+    "sonarr.Path": "Шлях",
+    "sonarr.Rejected": "Відхилено",
+    "sonarr.RemoveFromDownloadClient": "Видалити з клієнта завантаження",
+    "sonarr.ScanType": "Тип сканування",
+    "sonarr.SeriesDetails": "Деталі серії",
+    "sonarr.Source": "Джерело",
+    "sonarr.SourceTitle": "Назва джерела",
+    "sonarr.TimeLeft": "Час залишився"
 }
