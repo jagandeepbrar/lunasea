@@ -175,5 +175,21 @@
     "sonarr.SeriesDetails": "Деталі серії",
     "sonarr.Source": "Джерело",
     "sonarr.SourceTitle": "Назва джерела",
-    "sonarr.TimeLeft": "Час залишився"
+    "sonarr.TimeLeft": "Час залишився",
+    "sonarr.AddedOn": "Додано",
+    "sonarr.AddReleaseToBlocklist": "Додати випуск до чорного списку",
+    "sonarr.BackupDatabase": "Резервна база даних",
+    "sonarr.ImportedTo": "Імпортовано в",
+    "sonarr.InteractiveSearch": "Інтерактивний пошук",
+    "sonarr.Interactive": "Інтерактивний",
+    "sonarr.NoReleasesFound": "Релізів не знайдено",
+    "sonarr.PendingWithMessage": "Очікує: {}",
+    "sonarr.RefreshSeries": "Оновити серіал",
+    "sonarr.Searching": "Пошук{}",
+    "sonarr.StartSearchFor": "Почати пошук…",
+    "sonarr.SeriesEnded": "Серіал закінчився",
+    "sonarr.UpdatingLibrary": "Оновлення бібліотеки",
+    "sonarr.UpdatingLibraryDescription": "Оновлення бібліотеки у фоновому режимі",
+    "sonarr.Usenet": "Usenet",
+    "sonarr.UseSeasonFolders": "Використовувати папки для сезонів"
 }
