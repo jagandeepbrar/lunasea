@@ -15,7 +15,7 @@
     "overseerr.SomeRequests": "{} Запитів",
     "overseerr.Resolved": "Вирішено",
     "overseerr.Requested": "Запросив",
-    "overseerr.RequestedBy": "Запрошено {}",
+    "overseerr.RequestedBy": "Запит від {}",
     "overseerr.Requests": "Запити",
     "overseerr.Subtitle": "Субтитри",
     "overseerr.Video": "Відео",
