@@ -11,7 +11,7 @@
     "radarr.AvailabilityUnknown": "Disponibilidade Desconhecida",
     "radarr.AvailableIn": "Disponível em {}",
     "radarr.AvailableToday": "Disponível Hoje",
-    "radarr.BackupDatabase": "Backup do Banco de dados",
+    "radarr.BackupDatabase": "Fazer Backup do Banco de Dados",
     "radarr.BitDepth": "Profundidade de Bits",
     "radarr.Channels": "Canais",
     "radarr.CinemaDateUnknown": "Data nos Cinemas Desconhecida",
