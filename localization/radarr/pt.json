@@ -98,7 +98,7 @@
     "radarr.RunRSSSync": "Executar a sincronização RSS",
     "radarr.Runtime": "Tempo de execução",
     "radarr.ScanType": "Tipo de Varredura",
-    "radarr.Search": "Busca",
+    "radarr.Search": "Buscar",
     "radarr.SearchAllMissing": "Buscar Todos Que Estão Faltando",
     "radarr.SearchFor": "Buscar por {}",
     "radarr.Seeders": "Seeders",
@@ -126,6 +126,7 @@
     "radarr.UpdateMovie": "Atualizar Filme",
     "radarr.Video": "Vídeo",
     "radarr.ViewWebGUI": "Ver Interface Web",
+    "radarr.Wanted": "Procurados",
     "radarr.Weight": "Peso",
     "radarr.Year": "Ano"
 }
