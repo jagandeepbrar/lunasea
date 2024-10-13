@@ -20,5 +20,7 @@
     "sabnzbd.Completed": "Completado",
     "sabnzbd.Name": "Nome",
     "sabnzbd.Force": "Forçar",
-    "sabnzbd.ShutdownPC": "Desligar PC"
+    "sabnzbd.ShutdownPC": "Desligar PC",
+    "sabnzbd.High": "Alto",
+    "sabnzbd.Low": "Baixo"
 }
