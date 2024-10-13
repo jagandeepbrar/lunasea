@@ -23,5 +23,6 @@
     "overseerr.PartiallyAvailable": "Parcialmente Disponível",
     "overseerr.Requested": "Solicitado",
     "overseerr.NoIssuesFound": "Sem problemas encontrados",
-    "overseerr.Other": "Outros"
+    "overseerr.Other": "Outros",
+    "overseerr.Resolved": "Resolvido"
 }
