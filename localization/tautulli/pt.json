@@ -37,7 +37,7 @@
     "tautulli.DeleteCache": "Eliminar Cache",
     "tautulli.DeleteImageCache": "Eliminar Imagem de Cache",
     "tautulli.Copy": "Copiar",
-    "tautulli.Container": "Container",
+    "tautulli.Container": "Contêiner",
     "tautulli.Burn": "Gravar",
     "tautulli.Bandwidth": "Largura de Banda",
     "tautulli.BackupDatabase": "Backup da Base de Dados",
@@ -70,5 +70,11 @@
     "tautulli.LibraryDetails": "Detalhes da Biblioteca",
     "tautulli.DefaultTerminationMessage": "Mensagem de Terminação Padrão",
     "tautulli.ActivityRefreshRate": "Taxa de atualização de atividade",
-    "tautulli.Converting": "Convertendo"
+    "tautulli.Converting": "Convertendo",
+    "tautulli.Speed": "Velocidade: {}x",
+    "tautulli.Throttled": "Limitado",
+    "tautulli.StatisticsItemCount": "Contagem de Items de Estatísticas",
+    "tautulli.Transcodes": "Transcodificações",
+    "tautulli.Statistics": "Estatísticas",
+    "tautulli.UserDetails": "Detalhes do Usuário"
 }
