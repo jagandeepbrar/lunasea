@@ -1,1 +1,12 @@
-{}
+{
+    "search.Size": "الحجم",
+    "search.Downloading": "جاري التحميل…",
+    "search.ShowLinks": "إظهار الروابط",
+    "search.Age": "العمر",
+    "search.Alphabetical": "ترتيب أبجدي",
+    "search.Download": "تحميل",
+    "search.Comments": "تعليقات",
+    "search.DownloadToDevice": "تحميل إلى الجهاز",
+    "search.Results": "النتائج",
+    "search.Search": "بحث"
+}
