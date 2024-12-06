@@ -1,1 +1,16 @@
-{}
+{
+    "overseerr.Audio": "صوتي",
+    "overseerr.Video": "الفيديو",
+    "overseerr.NoUsersFound": "لم يتم العثور على اي مستخدمين",
+    "overseerr.Available": "متاح",
+    "overseerr.Issues": "مشاكل",
+    "overseerr.Other": "الاخرى",
+    "overseerr.PartiallyAvailable": "متاح جزئيا",
+    "overseerr.Pending": "قيد الانتظار",
+    "overseerr.Processing": "تتم المعالجة",
+    "overseerr.Resolved": "تم الحل",
+    "overseerr.Requested": "تم الطلب",
+    "overseerr.Requests": "الطلبات",
+    "overseerr.Subtitle": "الترجمة",
+    "overseerr.Users": "المستخدمون"
+}
