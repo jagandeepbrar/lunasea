@@ -1,1 +1,16 @@
-{}
+{
+    "dashboard.OneMonth": "شهر واحد",
+    "dashboard.Thursday": "الخميس",
+    "dashboard.Calendar": "التقويم",
+    "dashboard.Friday": "الجمعة",
+    "dashboard.MinimumOfOneDay": "يوم واحد كحد أدنى",
+    "dashboard.Monday": "الاثنين",
+    "dashboard.NoNewContent": "لا يوجد محتوى جديد",
+    "dashboard.OneWeek": "اسبوع واحد",
+    "dashboard.PastDays": "الايام الماضية",
+    "dashboard.Saturday": "السبت",
+    "dashboard.Sunday": "الاحد",
+    "dashboard.Tuesday": "الثلاثاء",
+    "dashboard.TwoWeeks": "اسبوعين",
+    "dashboard.Wednesday": "الاربعاء"
+}
