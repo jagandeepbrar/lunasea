@@ -1,1 +1,21 @@
-{}
+{
+    "dashboard.OneMonth": "ஒரு மாதம்",
+    "dashboard.OneWeek": "ஒரு வாரம்",
+    "dashboard.Calendar": "நாட்காட்டி",
+    "dashboard.Friday": "வெள்ளிக்கிழமை",
+    "dashboard.FutureDays": "எதிர்கால நாட்கள்",
+    "dashboard.FutureDaysDescription": "காலண்டர் உள்ளீடுகளைப் பெற எதிர்காலத்தில் நாட்களின் எண்ணிக்கையை அமைக்கவும்.",
+    "dashboard.MinimumOfOneDay": "குறைந்தபட்சம் 1 நாள்",
+    "dashboard.Modules": "தொகுதிகள்",
+    "dashboard.Monday": "திங்கள்",
+    "dashboard.NoNewContent": "புதிய உள்ளடக்கம் இல்லை",
+    "dashboard.PastDays": "கடந்த நாட்கள்",
+    "dashboard.PastDaysDescription": "காலண்டர் உள்ளீடுகளைப் பெற கடந்த கால நாட்களின் எண்ணிக்கையை அமைக்கவும்.",
+    "dashboard.Saturday": "காரிக்கிழமை",
+    "dashboard.Schedule": "அட்டவணை",
+    "dashboard.Sunday": "ஞாயிற்றுக்கிழமை",
+    "dashboard.Thursday": "வியாழக்கிழமை",
+    "dashboard.Tuesday": "செவ்வாய்க்கிழமை",
+    "dashboard.TwoWeeks": "இரண்டு வாரங்கள்",
+    "dashboard.Wednesday": "புதன்கிழமை"
+}
