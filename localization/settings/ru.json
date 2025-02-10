@@ -66,5 +66,12 @@
     "settings.AllFieldsAreRequired": "Все поля обязательны для заполнения",
     "settings.Add": "Добавить",
     "settings.AddProfileDescription": "Добавить Новый профиль",
-    "settings.AllLogs": "Все логи"
+    "settings.AllLogs": "Все логи",
+    "settings.Appearance": "Внешний вид",
+    "settings.AmoledThemeDescription": "Тёмная тема (глубокий чёрный)",
+    "settings.ApiKeyRequiredMessage": "Для подключения к {} нужен ключ API",
+    "settings.AppearanceDescription": "Настройки внешнего вида",
+    "settings.AmoledThemeBorders": "Границы AMOLED-темы",
+    "settings.AmoledThemeBordersDescription": "Добавить простые рамки в UI",
+    "settings.AllLogsDescription": "Просмотр логов всех типов"
 }
