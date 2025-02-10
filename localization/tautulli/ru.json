@@ -41,5 +41,10 @@
     "tautulli.Converting": "Преобразование",
     "tautulli.ActivityRefreshRate": "Частота обновления активности",
     "tautulli.ActivityDetails": "Детали Активности",
-    "tautulli.Burn": "Прожечь"
+    "tautulli.Burn": "Прожечь",
+    "tautulli.DeleteTemporarySessions": "Удалить временные сессии",
+    "tautulli.DeletingCacheDescription": "Кеш Tautulli удаляется",
+    "tautulli.DeletingImageCacheFailed": "Ошибка удаления кеша изображений",
+    "tautulli.DefaultTerminationMessage": "Стандартное сообщение о завершении",
+    "tautulli.DeletingImageCacheDescription": "Кеш изображений Tautulli удаляется"
 }
